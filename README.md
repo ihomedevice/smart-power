@@ -1,2 +1,2 @@
 # smart-power
-Smart Home Device Project
+Smart power for intelligent home devices
